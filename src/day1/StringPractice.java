@@ -8,7 +8,15 @@ public class StringPractice {
         String str = "Java is Fun";
         System.out.println(str);
 
+        //git add .    first command
+        //git commit -m "modified string class"      second command
+        //git push       third command
 
+
+        for (int i = 0; i <10 ; i+=2) {
+            System.out.println("i = " + i);
+
+        }
     }
 
 
