@@ -3,3 +3,4 @@ banana
 apple
 dragon fruit
 kiwi
+apple
