@@ -7,3 +7,4 @@ Mercedes S500
 Kia Optima
 Honda Civic
 Subaru WRX STI
+Range Rover Velar
